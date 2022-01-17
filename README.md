@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @basskibo
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning for interesting projects
+- 🌱 I’m currently working on some interesting projects
 - 📫 How to reach me jagetic.bojan@gmail.com
 
 <!---
