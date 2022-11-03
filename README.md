@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @basskibo
 - 👀 I’m interested in coding
 - 🌱 I’m currently working on some interesting projects
-- 📫 How to reach me jagetic.bojan@gmail.com
-
+- 📫 How to reach me jagetic.bojan@gmail.com, for more information checkout  <a href="https://www.bojanjagetic.com/" target=__blank>my website</a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basskibo&show_icons=true&theme=ayu-mirage&count_private=true)
