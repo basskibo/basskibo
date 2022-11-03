@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @basskibo
 - 👀 I’m interested in coding
 - 🌱 I’m currently working on some interesting projects
-- 📫 You can reach me or if you want to checkout more information you can do that on my <a href="https://www.bojanjagetic.com/" target=__blank>my website</a>
+- 📫 You can checkout my website <a href="https://www.bojanjagetic.com/" target=_blank>bojanjagetic.com</a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basskibo&show_icons=true&theme=ayu-mirage&count_private=true)
