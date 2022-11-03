@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![](https://komarev.com/ghpvc/?username=basskibo&color=blue)
+![](https://komarev.com/ghpvc/?username=basskibo&color=blue&style=for-the-badge	)
