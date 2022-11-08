@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basskibo&layout=compact&langs_count=8&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/basskibo/"><img alt="Basskibo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=basskibo&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/basskibo/"><img alt="Basskibo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=basskibo&custom_title=Basskibo's%20Contribution%20Graph&theme=react-dark" /></a>
 
 
 <!---
