@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basskibo&layout=compact&langs_count=12&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Bojan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=basskibo&theme=react-dark)](https://github.com/basskibo/github-readme-activity-graph)
+
 
 
 <!---
