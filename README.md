@@ -3,7 +3,9 @@
 - 🌱 I’m currently working on some interesting projects
 - 📫 You can checkout my website <a href="https://www.bojanjagetic.com/" target=_blank>bojanjagetic.com</a>
 
-My skill tools: [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,aws,mongodb,redis,grafana,react,nextjs,cypress,linux)](https://skillicons.dev)
+My skill tools: 
+
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,aws,mongodb,redis,grafana,react,nextjs,cypress,linux)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basskibo&show_icons=true&theme=ayu-mirage&count_private=true)
 
