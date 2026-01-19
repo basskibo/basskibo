@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @basskibo
 - 👀 I’m interested in coding
 - 🌱 I’m currently working on some interesting projects
-- 📫 You can checkout my website <a href="https://jageticbojan.com/" target=_blank>bojanjagetic.com</a>
+- 📫 You can checkout my website <a href="https://jageticbojan.com/" target=_blank>jageticbojan.com</a>
 
 My skill tools: 
 
