@@ -6,6 +6,7 @@
 My skill tools: 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,aws,mongodb,mysql,redis,grafana,react,nextjs,cypress,linux,bash&perline=7)](https://jageticbojan.com)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basskibo&show_icons=true&theme=radical)
 
 <!---
 [![Basskibo's GitHub stats](https://github-readme-stats.vercel.app/api?username=basskibo)](https://github.com/anuraghazra/github-readme-stats)
