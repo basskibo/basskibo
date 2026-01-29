@@ -9,9 +9,7 @@ My skill tools:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basskibo&show_icons=true&theme=ayu-mirage&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basskibo&layout=compact&langs_count=12&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
