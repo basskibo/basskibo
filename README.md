@@ -7,10 +7,9 @@ My skill tools:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,aws,mongodb,mysql,redis,grafana,react,nextjs,cypress,linux,bash&perline=7)](https://jageticbojan.com)
 
+![GitHub Stats](https://github-top-languages-sepia.vercel.app/api/stats?username=basskibo&theme=tokyonight)
 
-
-
-![Top Languages](https://github-top-languages-sepia.vercel.app/api/lang?username=basskibo&theme=dark)
+![Top Languages](https://github-top-languages-sepia.vercel.app/api/lang?username=basskibo&theme=tokyonight)
 
 <!---
 
